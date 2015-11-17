@@ -1,0 +1,8 @@
+Package: emojis91+
+Name: iOS 9.1 Emojis
+Version: 1.0
+Architecture: iphoneos-arm	
+Depends: com.bytafont.bytafont3, com.myrepospace.emojis91.emoji83beta, firmware (>= 9.0), firmware (<= 9.0.2)
+Description: Get WORKING iOS 9.1.x Emojis on iOS 9.0.x.
+Author: Unknown <>
+Section: Fonts

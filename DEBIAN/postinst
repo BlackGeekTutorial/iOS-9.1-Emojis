@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mv "/private/var/mobile/Library/Preferences/com.apple.EmojiPreferences.plist" "/private/var/mobile/Library/Preferences/com.apple.EmojiPreferences.plist_"
